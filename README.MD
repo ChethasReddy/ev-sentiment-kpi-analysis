@@ -23,7 +23,7 @@ We combine:
 
 - **[EV Reviews - Kaggle](https://www.kaggle.com/datasets/deadprstkrish/ev-cars-user-reviews-india)**
 - **[Global EV Market Dataset - Kaggle](https://www.kaggle.com/datasets/padmapiyush/global-electric-vehicle-dataset-2023)**
-- **[IEA Global EV Data Explorer](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)** _(manual CSV export)_
+- **[IEA Global EV Data Explorer](https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer)** 
 
 ---
 
